@@ -1,3 +1,3 @@
-# Space Spec
+# space spec
 
-a spec runner so abstract, it belongs in space
+a spec runner so abstract, it belongs in space.
