@@ -1,0 +1,33 @@
+{
+  "name": "space-spec",
+  "version": "0.1.0",
+  "description": "a spec runner that so abstract, it belongs in space.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seanstrom/space-spec.git"
+  },
+  "keywords": [
+    "spec",
+    "specs",
+    "specrunner",
+    "spec-runner",
+    "runner",
+    "tests",
+    "test-runner",
+    "space",
+    "abstract"
+  ],
+  "author": "seanstrom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanstrom/space-spec/issues"
+  },
+  "homepage": "https://github.com/seanstrom/space-spec#readme"
+}
