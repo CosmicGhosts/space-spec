@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/seanstrom/space-spec/issues"
   },
-  "homepage": "https://github.com/seanstrom/space-spec#readme"
+  "homepage": "https://github.com/seanstrom/space-spec#readme",
+  "dependencies": {
+    "prelude-ls": "^1.1.2"
+  }
 }
